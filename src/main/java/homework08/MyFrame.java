@@ -13,7 +13,6 @@ public class MyFrame extends JFrame {
     public JButton[] jbs;
     public JButton isRepeatYes = new JButton("да");
     public JButton isRepeatNo = new JButton("нет");
-
     public MyFrame(){
 
         splitPane = new JSplitPane();
